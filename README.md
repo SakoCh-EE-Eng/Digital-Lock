@@ -31,9 +31,18 @@ The concepts applied will include setting up GPIOs, Systick Timer to create dela
 The algorithm will be simple and may utilize enums, switch case statements, and if else statements. I am hoping if time allows, I want to utilize UART to request the user to input a password and ask if the user wants to use a prewritten password to try and guess it, however this is unlikely I will pursue this due to time constraints and will use most of my time setting up and understanding SPI more. 
 Hard will use GPIOs for the PMOD buttons, will utilize all four seven segments displays, EduBase Board leds will signify if it is right and the RGB led will let you know when it is unlocked.
 
-Block Diagram:
+**Block Diagram:**
 
-Pinout Plan:
+![image](https://github.com/user-attachments/assets/27c66dd6-5801-48e2-9dd4-837731a03eb9)
+
+
+**Pinout Plan:**
+
+![image](https://github.com/user-attachments/assets/fc658cb4-96b3-4cd1-bd96-444f7d698fb6)
+
+![image](https://github.com/user-attachments/assets/74a984b3-aecc-46a4-a24d-3d44d202fc0e)
+
+
 
 
 
