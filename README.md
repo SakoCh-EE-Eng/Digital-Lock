@@ -42,8 +42,9 @@ Hard will use GPIOs for the PMOD buttons, will utilize all four seven segments d
 
 ![image](https://github.com/user-attachments/assets/74a984b3-aecc-46a4-a24d-3d44d202fc0e)
 
+**Video Demo**
 
-
+https://youtube.com/shorts/5dnvOrmkbbA?si=8qXyWwAXCPlF2c9Y
 
 
 
