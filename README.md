@@ -22,7 +22,7 @@ Keil uVision 5
 
 **Objective**
 
-	Create a digital lock utilizing multiple components from the lab. A four digit password will be made in code and using the PMOD buttons the password will need to be input by the user. The four seven segment display modules will be used, one for each digit. The Edubase board LEDs will light green if the digit is correct and will stay red if not correct. Once all digits are set correctly, the RGB LED will flash green.  
+Create a digital lock utilizing multiple components from the lab. A four digit password will be made in code and using the PMOD buttons the password will need to be input by the user. The four seven segment display modules will be used, one for each digit. The Edubase board LEDs will light green if the digit is correct and will stay red if not correct. Once all digits are set correctly, the RGB LED will flash green.  
 
 
 **Background and Methodology:**
